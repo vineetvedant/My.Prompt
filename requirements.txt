@@ -12,7 +12,7 @@ openai
 flask
 openai
 python-dotenv
-smtplib
+secure-smtplib
 itsdangerous==2.1.2
 click==8.1.7
 blinker==1.6.3
